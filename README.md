@@ -23,7 +23,7 @@ Download the pretrained model from
 
   Edit "make_npydata.py" to change the path to your original dataset folder.<br />
   Run ```python make_npydata.py```  .<br />
-"·" Test
+* Test
   ```python val.py  --test_dataset Crowdsr  --pre ./model/Crowdsr/model_best.pth --gpu_id 0```<br />
 
 # Training
