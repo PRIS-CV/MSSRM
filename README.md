@@ -16,18 +16,18 @@ Coming soon
 Download the pretrained model from
 
 # Quickly test
-· git clone https://github.com/Xiejiahao233/MSSRM.git
-  cd MSSRM
-· Download Dataset and Model
-· Generate images list
+"·" git clone https://github.com/Xiejiahao233/MSSRM.git<br />
+  cd MSSRM<br />
+"·" Download Dataset and Model<br />
+"·" Generate images list<br />
 
-  Edit "make_npydata.py" to change the path to your original dataset folder.
-  Run python make_npydata.py  .
-· Test
-  python val.py  --test_dataset Crowdsr  --pre ./model/Crowdsr/model_best.pth --gpu_id 0
+  Edit "make_npydata.py" to change the path to your original dataset folder.<br />
+  Run python make_npydata.py  .<br />
+"·" Test
+  python val.py  --test_dataset Crowdsr  --pre ./model/Crowdsr/model_best.pth --gpu_id 0<br />
 
 # Training
-  for x2 upscale:
-    python train.py --upscale x2 --gpu_id 0
-  for x4 upscale
-    python train.py --upscale x4 --gpu_id 0
+  for x2 upscale:<br />
+    python train.py --upscale x2 --gpu_id 0<br />
+  for x4 upscale<br />
+    python train.py --upscale x4 --gpu_id 0<br />
