@@ -2,12 +2,12 @@
 An implementation of MSSRM method
 
 # Environment 
-python >=3.7
-pytorch >=1.7
-opencv-python >=4.0
-scipy >=1.4.0
-h5py >=2.10
-pillow >=7.0.0
+python >=3.7<br />
+pytorch >=1.7<br />
+opencv-python >=4.0<br />
+scipy >=1.4.0<br />
+h5py >=2.10<br />
+pillow >=7.0.0<br />
 
 # Datasets
 Coming soon
