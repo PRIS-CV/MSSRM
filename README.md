@@ -10,10 +10,10 @@ h5py >=2.10<br />
 pillow >=7.0.0<br />
 
 # Datasets
- Download SR-Crowd dataset from [Baidu-Disk](https://pan.baidu.com/s/1NkJMKIw6iSn2_ssbIaecvQ?pwd=mvi3), passward:mvi3 ; or [Google-Drive](https://drive.google.com/drive/folders/1XaYH8KPxMtK6j6_LkLG_EJGaZ1j9qa4m?usp=share_link)
+ Download SR-Crowd dataset from [Baidu-Disk](https://pan.baidu.com/s/1NkJMKIw6iSn2_ssbIaecvQ?pwd=mvi3), password:mvi3 ; or [Google-Drive](https://drive.google.com/drive/folders/1XaYH8KPxMtK6j6_LkLG_EJGaZ1j9qa4m?usp=share_link)
 
 # Model
-Download the pretrained model from from [Baidu-Disk](https://pan.baidu.com/s/1Be09E7mn9Y0EHv4YNKM6Ng?pwd=ma5g ), passward:ma5g ; or [Google-Drive](https://drive.google.com/drive/folders/1NsCkX_aoOV68Bd95Eqo4qP-DHoKa-OxC?usp=share_link)
+Download the pretrained model from from [Baidu-Disk](https://pan.baidu.com/s/1Be09E7mn9Y0EHv4YNKM6Ng?pwd=ma5g ), password:ma5g ; or [Google-Drive](https://drive.google.com/drive/folders/1NsCkX_aoOV68Bd95Eqo4qP-DHoKa-OxC?usp=share_link)
 
 # Quickly test
 * ```git clone https://github.com/Xiejiahao233/MSSRM.git```<br />
