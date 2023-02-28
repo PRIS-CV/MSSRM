@@ -10,7 +10,7 @@ h5py >=2.10<br />
 pillow >=7.0.0<br />
 
 # Datasets
-Coming soon
+ Download SR-Crowd dataset from [Baidu-Disk](https://pan.baidu.com/s/1NkJMKIw6iSn2_ssbIaecvQ?pwd=mvi3), passward:mvi3 ; or [Google-Drive](https://drive.google.com/drive/folders/1XaYH8KPxMtK6j6_LkLG_EJGaZ1j9qa4m?usp=share_link)
 
 # Model
 Download the pretrained model from
