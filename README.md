@@ -27,7 +27,4 @@ Download the pretrained model from from [Baidu-Disk](https://pan.baidu.com/s/1Be
   ```python val.py  --test_dataset Crowdsr  --pre ./model/Crowdsr/model_best.pth --gpu_id 0```<br />
 
 # Training
-  for x2 upscale:<br />
-    ```python train.py --upscale x2 --gpu_id 0```<br />
-  for x4 upscale:<br />
-    ```python train.py --upscale x4 --gpu_id 0```<br />
+coming soon.
